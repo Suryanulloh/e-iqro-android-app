@@ -20,11 +20,11 @@ Aplikasi juga memuat materi audio untuk pelafalan huruf. [Cek dan sesuaikan: aud
 ## Tampilan aplikasi
 | Layar pembuka | Menu utama | Huruf hijaiyah |
 | --- | --- | --- |
-| ![Splash](screenshots/01_splash.png) | ![Menu](screenshots/02_menu.png) | ![Huruf Hijaiyah](screenshots/03_huruf_hijaiyah.png) |
+| ![Splash](01_splash.png) | ![Menu](02_menu.png) | ![Huruf Hijaiyah](03_huruf_hijaiyah.png) |
 
 | Membaca Iqro | Quiz | Quiz selesai |
 | --- | --- | --- |
-| ![Membaca Iqro](screenshots/04_membaca_iqro.png) | ![Quiz](screenshots/05_quiz.png) | ![Quiz Selesai](screenshots/06_quiz_selesai.png) |
+| ![Membaca Iqro](04_membaca_iqro.png) | ![Quiz](05_quiz.png) | ![Quiz Selesai](06_quiz_selesai.png) |
 
 ## Teknologi
 - MIT App Inventor
